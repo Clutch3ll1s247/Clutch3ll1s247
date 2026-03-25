@@ -3,10 +3,8 @@
 <h1 align="center">👋 Hey, I'm Clutch3ll1s247</h1>
 
 <p align="center">
-  ☕ Turning caffeine into questionable code & occasional brilliance  
+  ☕ Turning caffeine into questionable code & occasional brilliance  ¯\_(ツ)_/¯
   <br>
-  <i>Works on my machine ¯\_(ツ)_/¯</i>
-</p>
 
 <!-- Typing Animation -->
 <p align="center">
