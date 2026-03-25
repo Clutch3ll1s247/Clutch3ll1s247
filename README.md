@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hey, I'm Paul</h1>
+<h1 align="center">👋 Hi, I'm Paul</h1>
 
 <p align="center">
   Turning caffeine into questionable code & occasional brilliance ¯\\_(ツ)_/¯
