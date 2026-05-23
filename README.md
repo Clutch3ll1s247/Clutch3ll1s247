@@ -48,7 +48,7 @@
 
 ### 🔥 Activity
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Clutch3ll1s247&theme=tokyo-night" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Clutch3ll1s247&theme=tokyo-night&custom_title=Ellis%27s%20Contribution%20Graph" />
 </p>
 
 ---
